@@ -131,8 +131,6 @@ This project is provided for security research, defensive validation, and educat
 
 ## Credits
 
-**Crypto Anarchy Squad (C.A.S)**  
-**EvLV**  
-**@anarchy_squad**
+**Crypto Anarchy Squad (C.A.S)**  *
 
 Identifiers above are taken from the original source banners. License and repository URL were not specified in the provided archive.
