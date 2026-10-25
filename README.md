@@ -1,7 +1,7 @@
 # C.A.S-Exploit
 
 **CVE-2017-5689 research and validation toolkit**  
-*Crypto Anarchy Squad (C.A.S) · EvLV · @anarchy_squad*
+*Crypto Anarchy Squad (C.A.S)
 
 > An archived Python/Bash proof of concept for investigating the Intel AMT authentication-bypass issue tracked as CVE-2017-5689. Use only against devices and networks you own or are explicitly authorized to assess.
 
